@@ -12,10 +12,10 @@ and a tests folder.
 I met the course outcomes I planned to meet with this enhancement. I was able to recreate this Java project into a Python project. I followed coding standards and guidelines while developing the completed 
 project in Python. The course outcomes I met are:
 
-Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-
+- Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-
 specific goals.
 
-Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
+- Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.  
 
 
 It was tougher than I expected to create the project in Python. There are some differences between the two languages, and while some of them are simple, I still had to ensure that I followed coding standards and 
